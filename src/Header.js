@@ -6,7 +6,7 @@ const Header = () => {
       <h1 className={styles.siteName}>
         <a href="/">My Site</a>
       </h1>
-      <ul classname={styles.navItem}>
+      <ul className={styles.nav}>
         <li className={styles.navItem}>
           <a href="/">About</a>
         </li>
@@ -15,7 +15,7 @@ const Header = () => {
         </li>
       </ul>
       <div className={styles.social}>
-        <a href="https://github.com/mottox2" target="_blank" rel="noreferrer">
+        <a href="https://github.com/kuzukawa" target="_blank" rel="noreferrer">
           <img width={32} height={32} alt="GitHub" src="/GitHub.png" />
         </a>
       </div>
@@ -23,4 +23,4 @@ const Header = () => {
   );
 };
 
-export default Header;  
+export default Header;

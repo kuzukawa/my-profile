@@ -7,7 +7,7 @@ const Layout = (props) => {
       <Header />
       <main>{props.children}</main>
       <footer className={styles.footer}>
-        <p className={styles.copyright}>&copy; 2020 つのぶえ出版</p>
+        <p className={styles.copyright}>&copy; 2021 Keisuke Kuzukawa</p>
       </footer>
     </div>
   );

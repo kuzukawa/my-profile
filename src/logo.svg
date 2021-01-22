@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="197px" viewBox="0 0 196 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Page 1</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="skack_trace_logo">
+            <g id="rectangles" transform="translate(0.000000, 0.500000)">
+                <rect id="Rectangle" fill="#4C154E" x="0" y="0.5" width="196" height="195" rx="37"></rect>
+                <rect id="Rectangle" fill="#37C6F2" x="33" y="67.5" width="62" height="27" rx="13"></rect>
+                <rect id="Rectangle" fill="#30B57C" transform="translate(114.500000, 63.500000) rotate(90.000000) translate(-114.500000, -63.500000) " x="83.5" y="50" width="62" height="27" rx="13"></rect>
+                <rect id="Rectangle" fill="#ECB22D" transform="translate(132.000000, 115.000000) rotate(180.000000) translate(-132.000000, -115.000000) " x="101" y="101.5" width="62" height="27" rx="13"></rect>
+                <rect id="Rectangle" fill="#E11E5B" transform="translate(80.500000, 131.500000) rotate(270.000000) translate(-80.500000, -131.500000) " x="49.5" y="118" width="62" height="27" rx="13"></rect>
+            </g>
+            <g id="circles" transform="translate(33.500000, 34.000000)">
+                <path d="M46.5,27 L46.499887,26.9909082 C39.2757403,26.7278244 33.5,20.7884104 33.5,13.5 C33.5,6.04415588 39.5441559,0 47,0 C54.2884104,0 60.2278244,5.77574026 60.4909082,12.999887 L60.5,13 L60.5,27 L46.5,27 Z" id="Path" fill="#37C6F2"></path>
+                <path d="M114.5,35 C118.002629,35 121.181732,36.3852141 123.519334,38.6377356 C125.863673,40.8967486 127.361796,44.0280257 127.490914,47.5092339 L127.490914,47.5092339 L127.499675,61 L114.009503,61 C110.527736,60.8663599 107.396032,59.3656033 105.136896,57.0195775 C102.88488,54.6809461 101.5,51.502202 101.5,48 C101.5,44.4101491 102.955075,41.1601491 105.307612,38.8076118 C107.660149,36.4550746 110.910149,35 114.5,35 Z" id="Path" stroke="#979797" fill="#30B57C" transform="translate(114.500000, 48.000000) rotate(90.000000) translate(-114.500000, -48.000000) "></path>
+                <path d="M80.5,129 L80.499887,128.990908 C73.2757403,128.727824 67.5,122.78841 67.5,115.5 C67.5,108.044156 73.5441559,102 81,102 C88.2884104,102 94.2278244,107.77574 94.4909082,114.999887 L94.5,115 L94.5,129 L80.5,129 Z" id="Path" fill="#ECB22D" transform="translate(81.000000, 115.500000) rotate(180.000000) translate(-81.000000, -115.500000) "></path>
+                <path d="M13,94.5 L12.999887,94.4909082 C5.77574026,94.2278244 0,88.2884104 0,81 C0,73.5441559 6.04415588,67.5 13.5,67.5 C20.7884104,67.5 26.7278244,73.2757403 26.9909082,80.499887 L27,80.5 L27,94.5 L13,94.5 Z" id="Path" fill="#E11E5B" transform="translate(13.500000, 81.000000) rotate(270.000000) translate(-13.500000, -81.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

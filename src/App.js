@@ -13,8 +13,8 @@ const App = (props) => {
       </Helmet>
       <h2 className={styles.heading}>About</h2>
       <p className={styles.profile}>
-        都内でウェブサービスやスマホアプリを作るフロントエンドエンジニア・UIデザイナーです。
-        新規事業の爆速立ち上げや、使いやすいSPAの開発が得意です。
+        都内・横浜でウェブサービスや基幹系システムのコンサルティングまで面白いプロジェクトにはなんでも参加するソフトウェアエンジニアです。会社の経営者でもあります。
+        開発プロセスの洗練化や標準化が特に得意な領域です。
       </p>
       <h2 className={styles.heading}>Posts</h2>
       {props.posts.map((post) => {
